@@ -8,7 +8,7 @@ This Power BI project visualizes sales and performance data for Adidas. It is de
 
 ## Dataset:-
 ## - <a href="https://github.com/darshan-masane/Adidas-Sales-Analysis/blob/main/Adidas%20US%20Sales%20Datasets.xlsx">Dataset</a>
-# Dashboard:-
+## Dashboard:-
 ## - <a href="https://github.com/darshan-masane/Adidas-Sales-Analysis/blob/main/Adidas_Sales_Dashboard.pbix">Dashboard</a>
 ## Dashboard Overview :-
 ![Screenshot%202025-01-03%20200704.png](https://github.com/darshan-masane/Adidas-Sales-Analysis/blob/main/Screenshot%202025-01-03%20200704.png)
