@@ -6,6 +6,13 @@ This Power BI dashboard provides a comprehensive overview of Adidas' sales perfo
 
 This Power BI project visualizes sales and performance data for Adidas. It is designed to provide key insights into total sales, unit sales, operating profits, and performance across various dimensions such as product categories, regions, cities, and sales methods.
 
+## Dataset:-
+## - <a href="https://github.com/darshan-masane/Adidas-Sales-Analysis/blob/main/Adidas%20US%20Sales%20Datasets.xlsx">Dataset</a>
+# Dashboard:-
+## - <a href="https://github.com/darshan-masane/Adidas-Sales-Analysis/blob/main/Adidas_Sales_Dashboard.pbix">Dashboard</a>
+## Dashboard Overview :-
+![Screenshot%202025-01-03%20200704.png](https://github.com/darshan-masane/Adidas-Sales-Analysis/blob/main/Screenshot%202025-01-03%20200704.png)
+
 ### Key Features:
 1. **Total Sales Overview**:
    - Total sales: **900M**
